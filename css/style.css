@@ -72,6 +72,7 @@ img{
 .home-content p {
     font-size: 1.125rem;
     margin: 10px 0 42px;
+    color: #FFFFF0;
 }
 
 /* 見出し */
@@ -80,6 +81,7 @@ img{
     font-family: 'Philosopher', serif;
     text-transform: uppercase;
     font-weight: normal;
+    color: #FFFFF0;
 }
 
 /* ボタン */
@@ -103,8 +105,8 @@ img{
 
 #home {
     background-image: url(../images/32282149_m.jpg);
-    /* background-color: #fff; */
-    /* background-blend-mode: color; */
+    /* background-color: #7d7d7d; */
+    /* background-blend-mode: hard-light; */
     min-height: 100vh;
 }
 
@@ -115,9 +117,10 @@ img{
 /* NEWS
 ------------------------------- */
 #news {
-    background-image: url(../images/news-bg.jpg);
+    background-image: url(../images/31941760_m.jpg);
     height: 270px;
     margin-bottom: 40px;
+    background-position: center center;
 }
 
 #news .page-title {
@@ -232,7 +235,8 @@ aside p {
 /* MENU
 ------------------------------- */
 #menu {
-    background-image: url(../images/31941760_m.jpg);
+    background-image: url(../images/32717190_s.jpg);
+    background-position: center center;
     min-height: 100vh;
 }
 .menu-content {
@@ -261,8 +265,10 @@ aside p {
 /* CONTACT
 ------------------------------- */
 #contact {
-    background-image: url(../images/contact-bg.jpg);
+    background-image: url(../images/4876509_m.jpg);
     min-height: 100vh;
+    background-color: #7d7d7d;
+    background-blend-mode: hard-light;
 }
 
 /* フォーム */
